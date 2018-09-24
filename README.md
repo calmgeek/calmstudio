@@ -1,2 +1,2 @@
 # calmstudio
-For Trainig
+For Trainnig
